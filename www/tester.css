@@ -1,0 +1,15 @@
+body { 
+background-color: cyan;
+color: #70003D;
+font-family: arial, helvetica, sans-serif;
+}
+/* This is a CSS comment: I wanted to make a site with a cyan background 
+ * and black text*/
+ 
+ul {
+    list-style-type: square;
+}
+
+ol {
+    list-style-type: upper-roman;
+}
